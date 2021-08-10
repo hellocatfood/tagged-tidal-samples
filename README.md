@@ -6,7 +6,26 @@ Kick Drum
 |----|-----------|
 |ab:4|           |
 |ab:5|           |
-|    |           |
+|bd:0|           |
+|bd:1|           |
+|bd:2|           |
+|bd:3|           |
+|bd:4|           |
+|bd:5|           |
+|bd:6|           |
+|bd:7|           |
+|bd:8|           |
+|bd:9|           |
+|bd:10|           |
+|bd:11|           |
+|bd:12|           |
+|bd:13|           |
+|bd:14|           |
+|bd:15|           |
+|bd:16|           |
+|bd:17|           |
+|bd:18|           |
+|bd:19|           |
 
 
 snare drum
@@ -14,8 +33,8 @@ snare drum
 |Name |Description|
 |-----|-----------|
 |ab:10|           |
-|     |           |
-|     |           |
+|sd:0|           |
+|sd:1 |           |
 
 
 
@@ -27,7 +46,7 @@ percussion
 |ades2:0|
 |ades2:1|
 |ades2:2|        |
-|    |           |
+|sn:0|           |
 |    |           |
 
 keys
@@ -228,7 +247,7 @@ To Do
 * bassfoo (3 samples)
 * battles (2 samples)
 * bbox (11 samples)
-* bd (24 samples)
+* ~~bd (24 samples)~~
 * bdoor (4 samples)
 * bend (4 samples)
 * bev (2 samples)
@@ -598,7 +617,7 @@ To Do
 * saron (8 samples)
 * sawg (1 samples)
 * sax (22 samples)
-* sd (2 samples)
+* ~~sd (2 samples)~~
 * seawolf (3 samples)
 * see (19 samples)
 * sequential (8 samples)
